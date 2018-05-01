@@ -201,7 +201,7 @@ Note that:
      which is 4.
      
   3. Dereference the resulting address to retrieve the value of field
-     `x` in the object referred to by `b`.
+     `y` in the object referred to by `a`.
 
   These steps also work if the dynamic type of `a` is `B` since the
   relative offset of the entry for `y` in the `B` data layout is the
